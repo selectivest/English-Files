@@ -1,0 +1,30 @@
+id,name,is_active
+2,Travel,t
+4,Family,t
+5,Personalities,t
+6,Fitness,t
+7,Music,t
+8,Movies,t
+10,Hobbies,t
+9,Entrepreneurship,t
+11,Technology,t
+12,Home,t
+13,Finance,t
+14,Work Life,t
+15,Pets,t
+16,News,t
+17,Science,t
+19,Sports,t
+20,Personal Growth,t
+21,Relationships,t
+22,Books,t
+23,Nature,t
+25,Career Path,t
+26,Social Media,t
+27,Self Care,t
+28,Entertainment,t
+29,General,t
+1,Fashion & Beauty,t
+3,Food & Drink,t
+18,Art & Craft,t
+24,Culture & Heritage,t
